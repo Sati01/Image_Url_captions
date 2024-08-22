@@ -1,4 +1,4 @@
-# Imgurl_captions
+# Image_Url_captions
 Image URL to Description and Sentiment Recognition Using Hugging Face
 
 # Running the Code
