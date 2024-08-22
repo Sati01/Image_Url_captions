@@ -12,4 +12,4 @@ Image which contains two males who are smiling +ve
 https://img.freepik.com/free-photo/woman-man-kissing-embracing-bed-dark-room_23-2148020325.jpg   Image of a couple kissing +ve
 
 
-https://huggingface.co/datasets/Narsil/image_dummy/resolve/main/parrots.png   Image of a couple of parrots
+https://huggingface.co/datasets/Narsil/image_dummy/resolve/main/parrots.png   Image of a couple of parrots Neutral
